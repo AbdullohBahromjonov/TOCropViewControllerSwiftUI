@@ -1,4 +1,4 @@
-#TOCropViewController SwiftUI example
+## TOCropViewController SwiftUI example
 
 ## Credits
 `TOCropViewController` was originally created by [Tim Oliver](http://twitter.com/TimOliverAU) as a component for [iComics](http://icomics.co), a comic reader app for iOS.
